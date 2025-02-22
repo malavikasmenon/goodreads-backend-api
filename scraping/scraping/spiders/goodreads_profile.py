@@ -54,6 +54,11 @@ class GoodreadsProfileSpider(scrapy.Spider):
                 "author": book_author.strip() if book_author else None,
             }
             user_data[shelf].append(book_logged)
+
+        next_page = response.xpath("//a[contains(@class, 'next_page')]/@href").get()
+    
+        if next_page:
+            yield response.follow(next_page, callback=self.parse_shelf, meta={"user_data": user_data, "shelf": shelf})
         
         if all(user_data[s] for s in ["currently-reading", "to-read", "read"]):
             yield user_data
