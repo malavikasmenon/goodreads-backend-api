@@ -1,7 +1,656 @@
 [
-{"profile_name": "varun krishna s", "currently-reading": [{"title": "1984", "isbn": "0452284236", "author": "Orwell, George"}, {"title": "Cubbon Park: The Green Heart of Bengaluru", "isbn": "9354472184", "author": "Pai, Roopa"}, {"title": "Hooked: How to Build Habit-Forming Products", "isbn": "1591847788", "author": "Eyal, Nir"}, {"title": "The Design of Everyday Things", "isbn": "0465067107", "author": "Norman, Donald A."}, {"title": "Meditations", "isbn": "0140449337", "author": "Marcus Aurelius"}], "to-read": [{"title": "The Assassination of Rajiv Gandhi", "isbn": "0670088706", "author": "Gopal, Neena"}, {"title": "Cannibalism: A Perfectly Natural History", "isbn": "1616204621", "author": "Schutt, Bill"}, {"title": "Debt: The First 5,000 Years", "isbn": "1933633867", "author": "Graeber, David"}, {"title": "Thomas Jefferson: The Art of Power", "isbn": "", "author": "Meacham, Jon"}, {"title": "Hackers: Heroes of the Computer Revolution", "isbn": "0141000511", "author": "Levy, Steven"}, {"title": "Identity and Violence: The Illusion of Destiny", "isbn": "0393329291", "author": "Sen, Amartya"}, {"title": "Development as Freedom", "isbn": "0385720270", "author": "Sen, Amartya"}, {"title": "The Poorer Nations: A Possible History of the Global South", "isbn": "1844679527", "author": "Prashad, Vijay"}, {"title": "Early India: From the Origins to AD 1300", "isbn": "0520931238", "author": "Thapar, Romila"}, {"title": "Eminent Historians: Their Technology, Their Line, Their Fraud", "isbn": "8190019988", "author": "Shourie, Arun"}, {"title": "Caste System : Myths Reality Challenge", "isbn": "", "author": "Sinha, Sachchidanand"}, {"title": "In Spite Of The Gods", "isbn": "0349123462", "author": "Luce, Edward"}, {"title": "Glimpses of World History", "isbn": "0143031058", "author": "Nehru, Jawaharlal"}, {"title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power", "isbn": "1559708611", "author": "Tharoor, Shashi"}, {"title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857", "isbn": "1400043107", "author": "Dalrymple, William"}, {"title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)", "isbn": "8172231245", "author": "Radhakrishnan, Sarvepalli"}, {"title": "Imagining India: The Idea of a Renewed Nation", "isbn": "1594202044", "author": "Nilekani, Nandan"}, {"title": "Everybody Loves a Good Drought", "isbn": "", "author": "Palagummi Sainath"}, {"title": "City of Djinns: A Year in Delhi", "isbn": "0142001007", "author": "Dalrymple, William"}, {"title": "Dongri To Dubai : Six Decades of The Mumbai Mafia", "isbn": "8174368949", "author": "Zaidi, S. Hussain"}], "read": [{"title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving", "isbn": "0960191038", "author": "Minto, Barbara"}, {"title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary", "isbn": "0596001088", "author": "Raymond, Eric S."}, {"title": "The White Tiger", "isbn": "1416562591", "author": "Adiga, Aravind"}, {"title": "The Black Swan: The Impact of the Highly Improbable", "isbn": "0141034599", "author": "Taleb, Nassim Nicholas"}, {"title": "Ecology and Equity", "isbn": "0140257616", "author": "Gadgil"}, {"title": "How Do You Live?", "isbn": "1846046459", "author": "Yoshino, Genzaburo"}, {"title": "Dune (Dune, #1)", "isbn": "", "author": "Herbert, Frank"}, {"title": "Shyam: An Illustrated Retelling of the Bhagavata", "isbn": "0670084468", "author": "Pattanaik, Devdutt"}, {"title": "Myth = Mithya: A Handbook of Hindu Mythology", "isbn": "0143099701", "author": "Pattanaik, Devdutt"}, {"title": "My Gita", "isbn": "8129137704", "author": "Pattanaik, Devdutt"}, {"title": "Jaya", "isbn": "014310425X", "author": "Pattanaik, Devdutt"}, {"title": "The Holy Geeta", "isbn": "", "author": "Saraswati, Chinmayananda"}, {"title": "The Oath of the Vayuputras (Shiva Trilogy, #3)", "isbn": "9382618341", "author": "Tripathi, Amish"}, {"title": "The Secret of the Nagas (Shiva Trilogy, #2)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "The Immortals of Meluha (Shiva Trilogy, #1)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Sita: Warrior of Mithila (Ram Chandra, #2)", "isbn": "9386224585", "author": "Tripathi, Amish"}, {"title": "Scion of Ikshvaku (Ram Chandra, #1)", "isbn": "9385152149", "author": "Tripathi, Amish"}, {"title": "The Emergency: A Personal History", "isbn": "", "author": "Kapoor, Coomi"}, {"title": "One Life Is Not Enough", "isbn": "", "author": "Singh, K. Natwar"}, {"title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)", "isbn": "", "author": "Baru, Sanjaya"}, {"title": "The Paradoxical Prime Minister", "isbn": "", "author": "Tharoor, Shashi"}, {"title": "Nehru: The Invention of India", "isbn": "1559707372", "author": "Tharoor, Shashi"}, {"title": "Gandhi: An Autobiography", "isbn": "", "author": "Gandhi, Mahatma"}, {"title": "The Great Indian Novel", "isbn": "1559701943", "author": "Tharoor, Shashi"}, {"title": "Why I am a Hindu", "isbn": "9386021102", "author": "Tharoor, Shashi"}, {"title": "An Era of Darkness: The British Empire in India", "isbn": "938306465X", "author": "Tharoor, Shashi"}, {"title": "India Since Independence", "isbn": "0143104098", "author": "Chandra, Bipan"}, {"title": "India's Struggle for Independence", "isbn": "0140107819", "author": "Chandra, Bipan"}, {"title": "History of Modern India", "isbn": "8125036849", "author": "Chandra, Bipan"}, {"title": "Pax Indica: India and the World of the 21st Century", "isbn": "067008574X", "author": "Tharoor, Shashi"}, {"title": "The Argumentative Indian: Writings on Indian History, Culture and Identity", "isbn": "031242602X", "author": "Sen, Amartya"}, {"title": "India After Gandhi: The History of the World's Largest Democracy", "isbn": "0060198818", "author": "Guha, Ramachandra"}, {"title": "The Discovery of India", "isbn": "0143031031", "author": "Nehru, Jawaharlal"}, {"title": "The City of Joy", "isbn": "0446355569", "author": "Lapierre, Dominique"}, {"title": "Freedom At Midnight", "isbn": "8125904808", "author": "Lapierre, Dominique"}, {"title": "The Fever Code (The Maze Runner, #0.5)", "isbn": "0553513095", "author": "Dashner, James"}, {"title": "The Kill Order (The Maze Runner, #0.4)", "isbn": "0385742886", "author": "Dashner, James"}, {"title": "The Death Cure (The Maze Runner, #3)", "isbn": "0385738773", "author": "Dashner, James"}, {"title": "The Scorch Trials (The Maze Runner, #2)", "isbn": "0385738757", "author": "Dashner, James"}]},
-{"profile_name": "varun krishna s", "currently-reading": [{"title": "1984", "isbn": "0452284236", "author": "Orwell, George"}, {"title": "Cubbon Park: The Green Heart of Bengaluru", "isbn": "9354472184", "author": "Pai, Roopa"}, {"title": "Hooked: How to Build Habit-Forming Products", "isbn": "1591847788", "author": "Eyal, Nir"}, {"title": "The Design of Everyday Things", "isbn": "0465067107", "author": "Norman, Donald A."}, {"title": "Meditations", "isbn": "0140449337", "author": "Marcus Aurelius"}], "to-read": [{"title": "The Assassination of Rajiv Gandhi", "isbn": "0670088706", "author": "Gopal, Neena"}, {"title": "Cannibalism: A Perfectly Natural History", "isbn": "1616204621", "author": "Schutt, Bill"}, {"title": "Debt: The First 5,000 Years", "isbn": "1933633867", "author": "Graeber, David"}, {"title": "Thomas Jefferson: The Art of Power", "isbn": "", "author": "Meacham, Jon"}, {"title": "Hackers: Heroes of the Computer Revolution", "isbn": "0141000511", "author": "Levy, Steven"}, {"title": "Identity and Violence: The Illusion of Destiny", "isbn": "0393329291", "author": "Sen, Amartya"}, {"title": "Development as Freedom", "isbn": "0385720270", "author": "Sen, Amartya"}, {"title": "The Poorer Nations: A Possible History of the Global South", "isbn": "1844679527", "author": "Prashad, Vijay"}, {"title": "Early India: From the Origins to AD 1300", "isbn": "0520931238", "author": "Thapar, Romila"}, {"title": "Eminent Historians: Their Technology, Their Line, Their Fraud", "isbn": "8190019988", "author": "Shourie, Arun"}, {"title": "Caste System : Myths Reality Challenge", "isbn": "", "author": "Sinha, Sachchidanand"}, {"title": "In Spite Of The Gods", "isbn": "0349123462", "author": "Luce, Edward"}, {"title": "Glimpses of World History", "isbn": "0143031058", "author": "Nehru, Jawaharlal"}, {"title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power", "isbn": "1559708611", "author": "Tharoor, Shashi"}, {"title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857", "isbn": "1400043107", "author": "Dalrymple, William"}, {"title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)", "isbn": "8172231245", "author": "Radhakrishnan, Sarvepalli"}, {"title": "Imagining India: The Idea of a Renewed Nation", "isbn": "1594202044", "author": "Nilekani, Nandan"}, {"title": "Everybody Loves a Good Drought", "isbn": "", "author": "Palagummi Sainath"}, {"title": "City of Djinns: A Year in Delhi", "isbn": "0142001007", "author": "Dalrymple, William"}, {"title": "Dongri To Dubai : Six Decades of The Mumbai Mafia", "isbn": "8174368949", "author": "Zaidi, S. Hussain"}], "read": [{"title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving", "isbn": "0960191038", "author": "Minto, Barbara"}, {"title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary", "isbn": "0596001088", "author": "Raymond, Eric S."}, {"title": "The White Tiger", "isbn": "1416562591", "author": "Adiga, Aravind"}, {"title": "The Black Swan: The Impact of the Highly Improbable", "isbn": "0141034599", "author": "Taleb, Nassim Nicholas"}, {"title": "Ecology and Equity", "isbn": "0140257616", "author": "Gadgil"}, {"title": "How Do You Live?", "isbn": "1846046459", "author": "Yoshino, Genzaburo"}, {"title": "Dune (Dune, #1)", "isbn": "", "author": "Herbert, Frank"}, {"title": "Shyam: An Illustrated Retelling of the Bhagavata", "isbn": "0670084468", "author": "Pattanaik, Devdutt"}, {"title": "Myth = Mithya: A Handbook of Hindu Mythology", "isbn": "0143099701", "author": "Pattanaik, Devdutt"}, {"title": "My Gita", "isbn": "8129137704", "author": "Pattanaik, Devdutt"}, {"title": "Jaya", "isbn": "014310425X", "author": "Pattanaik, Devdutt"}, {"title": "The Holy Geeta", "isbn": "", "author": "Saraswati, Chinmayananda"}, {"title": "The Oath of the Vayuputras (Shiva Trilogy, #3)", "isbn": "9382618341", "author": "Tripathi, Amish"}, {"title": "The Secret of the Nagas (Shiva Trilogy, #2)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "The Immortals of Meluha (Shiva Trilogy, #1)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Sita: Warrior of Mithila (Ram Chandra, #2)", "isbn": "9386224585", "author": "Tripathi, Amish"}, {"title": "Scion of Ikshvaku (Ram Chandra, #1)", "isbn": "9385152149", "author": "Tripathi, Amish"}, {"title": "The Emergency: A Personal History", "isbn": "", "author": "Kapoor, Coomi"}, {"title": "One Life Is Not Enough", "isbn": "", "author": "Singh, K. Natwar"}, {"title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)", "isbn": "", "author": "Baru, Sanjaya"}, {"title": "The Paradoxical Prime Minister", "isbn": "", "author": "Tharoor, Shashi"}, {"title": "Nehru: The Invention of India", "isbn": "1559707372", "author": "Tharoor, Shashi"}, {"title": "Gandhi: An Autobiography", "isbn": "", "author": "Gandhi, Mahatma"}, {"title": "The Great Indian Novel", "isbn": "1559701943", "author": "Tharoor, Shashi"}, {"title": "Why I am a Hindu", "isbn": "9386021102", "author": "Tharoor, Shashi"}, {"title": "An Era of Darkness: The British Empire in India", "isbn": "938306465X", "author": "Tharoor, Shashi"}, {"title": "India Since Independence", "isbn": "0143104098", "author": "Chandra, Bipan"}, {"title": "India's Struggle for Independence", "isbn": "0140107819", "author": "Chandra, Bipan"}, {"title": "History of Modern India", "isbn": "8125036849", "author": "Chandra, Bipan"}, {"title": "Pax Indica: India and the World of the 21st Century", "isbn": "067008574X", "author": "Tharoor, Shashi"}, {"title": "The Argumentative Indian: Writings on Indian History, Culture and Identity", "isbn": "031242602X", "author": "Sen, Amartya"}, {"title": "India After Gandhi: The History of the World's Largest Democracy", "isbn": "0060198818", "author": "Guha, Ramachandra"}, {"title": "The Discovery of India", "isbn": "0143031031", "author": "Nehru, Jawaharlal"}, {"title": "The City of Joy", "isbn": "0446355569", "author": "Lapierre, Dominique"}, {"title": "Freedom At Midnight", "isbn": "8125904808", "author": "Lapierre, Dominique"}, {"title": "The Fever Code (The Maze Runner, #0.5)", "isbn": "0553513095", "author": "Dashner, James"}, {"title": "The Kill Order (The Maze Runner, #0.4)", "isbn": "0385742886", "author": "Dashner, James"}, {"title": "The Death Cure (The Maze Runner, #3)", "isbn": "0385738773", "author": "Dashner, James"}, {"title": "The Scorch Trials (The Maze Runner, #2)", "isbn": "0385738757", "author": "Dashner, James"}, {"title": "The Maze Runner (The Maze Runner, #1)", "isbn": "0385737947", "author": "Dashner, James"}, {"title": "Inheritance (The Inheritance Cycle, #4)", "isbn": "0375856110", "author": "Paolini, Christopher"}, {"title": "Brisingr (The Inheritance Cycle #3)", "isbn": "0375826726", "author": "Paolini, Christopher"}, {"title": "Eldest (The Inheritance Cycle #2)", "isbn": "0375840400", "author": "Paolini, Christopher"}, {"title": "Blood Promise (Vampire Academy, #4)", "isbn": "1595141987", "author": "Mead, Richelle"}, {"title": "Frostbite (Vampire Academy, #2)", "isbn": "", "author": "Mead, Richelle"}, {"title": "Allegiant (Divergent, #3)", "isbn": "0007524277", "author": "Roth, Veronica"}, {"title": "Insurgent (Divergent, #2)", "isbn": "0007442912", "author": "Roth, Veronica"}, {"title": "Mockingjay (The Hunger Games, #3)", "isbn": "0439023513", "author": "Collins, Suzanne"}, {"title": "Catching Fire (The Hunger Games, #2)", "isbn": "0439023491", "author": "Collins, Suzanne"}, {"title": "Midnight Sun (The Twilight Saga, #5)", "isbn": "031670704X", "author": "Meyer, Stephenie"}, {"title": "Breaking Dawn (The Twilight Saga, #4)", "isbn": "031606792X", "author": "Meyer, Stephenie"}, {"title": "Eclipse (The Twilight Saga, #3)", "isbn": "0316160202", "author": "Meyer, Stephenie"}, {"title": "New Moon (The Twilight Saga, #2)", "isbn": "0316160199", "author": "Meyer, Stephenie"}, {"title": "Life and Death: Twilight Reimagined (The Twilight Saga)", "isbn": "0316505455", "author": "Meyer, Stephenie"}, {"title": "9 From the Nine Worlds", "isbn": "1368024041", "author": "Riordan, Rick"}, {"title": "Magnus Chase and the Gods of Asgard (Magnus Chase and the Gods of Asgard, #1-3)", "isbn": "1484767373", "author": "Riordan, Rick"}, {"title": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)", "isbn": "1423160932", "author": "Riordan, Rick"}, {"title": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)", "isbn": "1423160924", "author": "Riordan, Rick"}, {"title": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)", "isbn": "1423160916", "author": "Riordan, Rick"}]},
-{"profile_name": "varun krishna s", "currently-reading": [{"title": "1984", "isbn": "0452284236", "author": "Orwell, George"}, {"title": "Cubbon Park: The Green Heart of Bengaluru", "isbn": "9354472184", "author": "Pai, Roopa"}, {"title": "Hooked: How to Build Habit-Forming Products", "isbn": "1591847788", "author": "Eyal, Nir"}, {"title": "The Design of Everyday Things", "isbn": "0465067107", "author": "Norman, Donald A."}, {"title": "Meditations", "isbn": "0140449337", "author": "Marcus Aurelius"}], "to-read": [{"title": "The Assassination of Rajiv Gandhi", "isbn": "0670088706", "author": "Gopal, Neena"}, {"title": "Cannibalism: A Perfectly Natural History", "isbn": "1616204621", "author": "Schutt, Bill"}, {"title": "Debt: The First 5,000 Years", "isbn": "1933633867", "author": "Graeber, David"}, {"title": "Thomas Jefferson: The Art of Power", "isbn": "", "author": "Meacham, Jon"}, {"title": "Hackers: Heroes of the Computer Revolution", "isbn": "0141000511", "author": "Levy, Steven"}, {"title": "Identity and Violence: The Illusion of Destiny", "isbn": "0393329291", "author": "Sen, Amartya"}, {"title": "Development as Freedom", "isbn": "0385720270", "author": "Sen, Amartya"}, {"title": "The Poorer Nations: A Possible History of the Global South", "isbn": "1844679527", "author": "Prashad, Vijay"}, {"title": "Early India: From the Origins to AD 1300", "isbn": "0520931238", "author": "Thapar, Romila"}, {"title": "Eminent Historians: Their Technology, Their Line, Their Fraud", "isbn": "8190019988", "author": "Shourie, Arun"}, {"title": "Caste System : Myths Reality Challenge", "isbn": "", "author": "Sinha, Sachchidanand"}, {"title": "In Spite Of The Gods", "isbn": "0349123462", "author": "Luce, Edward"}, {"title": "Glimpses of World History", "isbn": "0143031058", "author": "Nehru, Jawaharlal"}, {"title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power", "isbn": "1559708611", "author": "Tharoor, Shashi"}, {"title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857", "isbn": "1400043107", "author": "Dalrymple, William"}, {"title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)", "isbn": "8172231245", "author": "Radhakrishnan, Sarvepalli"}, {"title": "Imagining India: The Idea of a Renewed Nation", "isbn": "1594202044", "author": "Nilekani, Nandan"}, {"title": "Everybody Loves a Good Drought", "isbn": "", "author": "Palagummi Sainath"}, {"title": "City of Djinns: A Year in Delhi", "isbn": "0142001007", "author": "Dalrymple, William"}, {"title": "Dongri To Dubai : Six Decades of The Mumbai Mafia", "isbn": "8174368949", "author": "Zaidi, S. Hussain"}], "read": [{"title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving", "isbn": "0960191038", "author": "Minto, Barbara"}, {"title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary", "isbn": "0596001088", "author": "Raymond, Eric S."}, {"title": "The White Tiger", "isbn": "1416562591", "author": "Adiga, Aravind"}, {"title": "The Black Swan: The Impact of the Highly Improbable", "isbn": "0141034599", "author": "Taleb, Nassim Nicholas"}, {"title": "Ecology and Equity", "isbn": "0140257616", "author": "Gadgil"}, {"title": "How Do You Live?", "isbn": "1846046459", "author": "Yoshino, Genzaburo"}, {"title": "Dune (Dune, #1)", "isbn": "", "author": "Herbert, Frank"}, {"title": "Shyam: An Illustrated Retelling of the Bhagavata", "isbn": "0670084468", "author": "Pattanaik, Devdutt"}, {"title": "Myth = Mithya: A Handbook of Hindu Mythology", "isbn": "0143099701", "author": "Pattanaik, Devdutt"}, {"title": "My Gita", "isbn": "8129137704", "author": "Pattanaik, Devdutt"}, {"title": "Jaya", "isbn": "014310425X", "author": "Pattanaik, Devdutt"}, {"title": "The Holy Geeta", "isbn": "", "author": "Saraswati, Chinmayananda"}, {"title": "The Oath of the Vayuputras (Shiva Trilogy, #3)", "isbn": "9382618341", "author": "Tripathi, Amish"}, {"title": "The Secret of the Nagas (Shiva Trilogy, #2)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "The Immortals of Meluha (Shiva Trilogy, #1)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Sita: Warrior of Mithila (Ram Chandra, #2)", "isbn": "9386224585", "author": "Tripathi, Amish"}, {"title": "Scion of Ikshvaku (Ram Chandra, #1)", "isbn": "9385152149", "author": "Tripathi, Amish"}, {"title": "The Emergency: A Personal History", "isbn": "", "author": "Kapoor, Coomi"}, {"title": "One Life Is Not Enough", "isbn": "", "author": "Singh, K. Natwar"}, {"title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)", "isbn": "", "author": "Baru, Sanjaya"}, {"title": "The Paradoxical Prime Minister", "isbn": "", "author": "Tharoor, Shashi"}, {"title": "Nehru: The Invention of India", "isbn": "1559707372", "author": "Tharoor, Shashi"}, {"title": "Gandhi: An Autobiography", "isbn": "", "author": "Gandhi, Mahatma"}, {"title": "The Great Indian Novel", "isbn": "1559701943", "author": "Tharoor, Shashi"}, {"title": "Why I am a Hindu", "isbn": "9386021102", "author": "Tharoor, Shashi"}, {"title": "An Era of Darkness: The British Empire in India", "isbn": "938306465X", "author": "Tharoor, Shashi"}, {"title": "India Since Independence", "isbn": "0143104098", "author": "Chandra, Bipan"}, {"title": "India's Struggle for Independence", "isbn": "0140107819", "author": "Chandra, Bipan"}, {"title": "History of Modern India", "isbn": "8125036849", "author": "Chandra, Bipan"}, {"title": "Pax Indica: India and the World of the 21st Century", "isbn": "067008574X", "author": "Tharoor, Shashi"}, {"title": "The Argumentative Indian: Writings on Indian History, Culture and Identity", "isbn": "031242602X", "author": "Sen, Amartya"}, {"title": "India After Gandhi: The History of the World's Largest Democracy", "isbn": "0060198818", "author": "Guha, Ramachandra"}, {"title": "The Discovery of India", "isbn": "0143031031", "author": "Nehru, Jawaharlal"}, {"title": "The City of Joy", "isbn": "0446355569", "author": "Lapierre, Dominique"}, {"title": "Freedom At Midnight", "isbn": "8125904808", "author": "Lapierre, Dominique"}, {"title": "The Fever Code (The Maze Runner, #0.5)", "isbn": "0553513095", "author": "Dashner, James"}, {"title": "The Kill Order (The Maze Runner, #0.4)", "isbn": "0385742886", "author": "Dashner, James"}, {"title": "The Death Cure (The Maze Runner, #3)", "isbn": "0385738773", "author": "Dashner, James"}, {"title": "The Scorch Trials (The Maze Runner, #2)", "isbn": "0385738757", "author": "Dashner, James"}, {"title": "The Maze Runner (The Maze Runner, #1)", "isbn": "0385737947", "author": "Dashner, James"}, {"title": "Inheritance (The Inheritance Cycle, #4)", "isbn": "0375856110", "author": "Paolini, Christopher"}, {"title": "Brisingr (The Inheritance Cycle #3)", "isbn": "0375826726", "author": "Paolini, Christopher"}, {"title": "Eldest (The Inheritance Cycle #2)", "isbn": "0375840400", "author": "Paolini, Christopher"}, {"title": "Blood Promise (Vampire Academy, #4)", "isbn": "1595141987", "author": "Mead, Richelle"}, {"title": "Frostbite (Vampire Academy, #2)", "isbn": "", "author": "Mead, Richelle"}, {"title": "Allegiant (Divergent, #3)", "isbn": "0007524277", "author": "Roth, Veronica"}, {"title": "Insurgent (Divergent, #2)", "isbn": "0007442912", "author": "Roth, Veronica"}, {"title": "Mockingjay (The Hunger Games, #3)", "isbn": "0439023513", "author": "Collins, Suzanne"}, {"title": "Catching Fire (The Hunger Games, #2)", "isbn": "0439023491", "author": "Collins, Suzanne"}, {"title": "Midnight Sun (The Twilight Saga, #5)", "isbn": "031670704X", "author": "Meyer, Stephenie"}, {"title": "Breaking Dawn (The Twilight Saga, #4)", "isbn": "031606792X", "author": "Meyer, Stephenie"}, {"title": "Eclipse (The Twilight Saga, #3)", "isbn": "0316160202", "author": "Meyer, Stephenie"}, {"title": "New Moon (The Twilight Saga, #2)", "isbn": "0316160199", "author": "Meyer, Stephenie"}, {"title": "Life and Death: Twilight Reimagined (The Twilight Saga)", "isbn": "0316505455", "author": "Meyer, Stephenie"}, {"title": "9 From the Nine Worlds", "isbn": "1368024041", "author": "Riordan, Rick"}, {"title": "Magnus Chase and the Gods of Asgard (Magnus Chase and the Gods of Asgard, #1-3)", "isbn": "1484767373", "author": "Riordan, Rick"}, {"title": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)", "isbn": "1423160932", "author": "Riordan, Rick"}, {"title": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)", "isbn": "1423160924", "author": "Riordan, Rick"}, {"title": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)", "isbn": "1423160916", "author": "Riordan, Rick"}, {"title": "The Serpent's Shadow (The Kane Chronicles, #3)", "isbn": "1423140575", "author": "Riordan, Rick"}, {"title": "The Throne of Fire (The Kane Chronicles, #2)", "isbn": "1423140567", "author": "Riordan, Rick"}, {"title": "The Red Pyramid (The Kane Chronicles, #1)", "isbn": "1423113381", "author": "Riordan, Rick"}, {"title": "The Demigod Diaries (The Heroes of Olympus)", "isbn": "1423163001", "author": "Riordan, Rick"}, {"title": "The Blood of Olympus (The Heroes of Olympus, #5)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The House of Hades (The Heroes of Olympus, #4)", "isbn": "1423146727", "author": "Riordan, Rick"}, {"title": "The Mark of Athena (The Heroes of Olympus, #3)", "isbn": "1423140605", "author": "Riordan, Rick"}, {"title": "The Son of Neptune (The Heroes of Olympus, #2)", "isbn": "1423140591", "author": "Riordan, Rick"}, {"title": "The Lost Hero (The Heroes of Olympus, #1)", "isbn": "142311339X", "author": "Riordan, Rick"}, {"title": "Percy Jackson's Greek Gods", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Singer of Apollo (Camp Half-Blood Chronicles, #5.1)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Last Olympian (Percy Jackson and the Olympians, #5)", "isbn": "1423101472", "author": "Riordan, Rick"}, {"title": "The Demigod Files (Percy Jackson and the Olympians)", "isbn": "142312166X", "author": "Riordan, Rick"}, {"title": "Percy Jackson. Il racconto segreto", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Sword of Hades (Percy Jackson and the Olympians, #4.5)", "isbn": "0955944686", "author": "Riordan, Rick"}, {"title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)", "isbn": "1423101464", "author": "Riordan, Rick"}, {"title": "The Titan’s Curse (Percy Jackson and the Olympians, #3)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)", "isbn": "0786856866", "author": "Riordan, Rick"}, {"title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)", "isbn": "0540027340", "author": "Tiffany, John"}, {"title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)", "isbn": "", "author": "Rowling, J.K."}]},
-{"profile_name": "varun krishna s", "currently-reading": [{"title": "1984", "isbn": "0452284236", "author": "Orwell, George"}, {"title": "Cubbon Park: The Green Heart of Bengaluru", "isbn": "9354472184", "author": "Pai, Roopa"}, {"title": "Hooked: How to Build Habit-Forming Products", "isbn": "1591847788", "author": "Eyal, Nir"}, {"title": "The Design of Everyday Things", "isbn": "0465067107", "author": "Norman, Donald A."}, {"title": "Meditations", "isbn": "0140449337", "author": "Marcus Aurelius"}], "to-read": [{"title": "The Assassination of Rajiv Gandhi", "isbn": "0670088706", "author": "Gopal, Neena"}, {"title": "Cannibalism: A Perfectly Natural History", "isbn": "1616204621", "author": "Schutt, Bill"}, {"title": "Debt: The First 5,000 Years", "isbn": "1933633867", "author": "Graeber, David"}, {"title": "Thomas Jefferson: The Art of Power", "isbn": "", "author": "Meacham, Jon"}, {"title": "Hackers: Heroes of the Computer Revolution", "isbn": "0141000511", "author": "Levy, Steven"}, {"title": "Identity and Violence: The Illusion of Destiny", "isbn": "0393329291", "author": "Sen, Amartya"}, {"title": "Development as Freedom", "isbn": "0385720270", "author": "Sen, Amartya"}, {"title": "The Poorer Nations: A Possible History of the Global South", "isbn": "1844679527", "author": "Prashad, Vijay"}, {"title": "Early India: From the Origins to AD 1300", "isbn": "0520931238", "author": "Thapar, Romila"}, {"title": "Eminent Historians: Their Technology, Their Line, Their Fraud", "isbn": "8190019988", "author": "Shourie, Arun"}, {"title": "Caste System : Myths Reality Challenge", "isbn": "", "author": "Sinha, Sachchidanand"}, {"title": "In Spite Of The Gods", "isbn": "0349123462", "author": "Luce, Edward"}, {"title": "Glimpses of World History", "isbn": "0143031058", "author": "Nehru, Jawaharlal"}, {"title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power", "isbn": "1559708611", "author": "Tharoor, Shashi"}, {"title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857", "isbn": "1400043107", "author": "Dalrymple, William"}, {"title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)", "isbn": "8172231245", "author": "Radhakrishnan, Sarvepalli"}, {"title": "Imagining India: The Idea of a Renewed Nation", "isbn": "1594202044", "author": "Nilekani, Nandan"}, {"title": "Everybody Loves a Good Drought", "isbn": "", "author": "Palagummi Sainath"}, {"title": "City of Djinns: A Year in Delhi", "isbn": "0142001007", "author": "Dalrymple, William"}, {"title": "Dongri To Dubai : Six Decades of The Mumbai Mafia", "isbn": "8174368949", "author": "Zaidi, S. Hussain"}], "read": [{"title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving", "isbn": "0960191038", "author": "Minto, Barbara"}, {"title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary", "isbn": "0596001088", "author": "Raymond, Eric S."}, {"title": "The White Tiger", "isbn": "1416562591", "author": "Adiga, Aravind"}, {"title": "The Black Swan: The Impact of the Highly Improbable", "isbn": "0141034599", "author": "Taleb, Nassim Nicholas"}, {"title": "Ecology and Equity", "isbn": "0140257616", "author": "Gadgil"}, {"title": "How Do You Live?", "isbn": "1846046459", "author": "Yoshino, Genzaburo"}, {"title": "Dune (Dune, #1)", "isbn": "", "author": "Herbert, Frank"}, {"title": "Shyam: An Illustrated Retelling of the Bhagavata", "isbn": "0670084468", "author": "Pattanaik, Devdutt"}, {"title": "Myth = Mithya: A Handbook of Hindu Mythology", "isbn": "0143099701", "author": "Pattanaik, Devdutt"}, {"title": "My Gita", "isbn": "8129137704", "author": "Pattanaik, Devdutt"}, {"title": "Jaya", "isbn": "014310425X", "author": "Pattanaik, Devdutt"}, {"title": "The Holy Geeta", "isbn": "", "author": "Saraswati, Chinmayananda"}, {"title": "The Oath of the Vayuputras (Shiva Trilogy, #3)", "isbn": "9382618341", "author": "Tripathi, Amish"}, {"title": "The Secret of the Nagas (Shiva Trilogy, #2)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "The Immortals of Meluha (Shiva Trilogy, #1)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Sita: Warrior of Mithila (Ram Chandra, #2)", "isbn": "9386224585", "author": "Tripathi, Amish"}, {"title": "Scion of Ikshvaku (Ram Chandra, #1)", "isbn": "9385152149", "author": "Tripathi, Amish"}, {"title": "The Emergency: A Personal History", "isbn": "", "author": "Kapoor, Coomi"}, {"title": "One Life Is Not Enough", "isbn": "", "author": "Singh, K. Natwar"}, {"title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)", "isbn": "", "author": "Baru, Sanjaya"}, {"title": "The Paradoxical Prime Minister", "isbn": "", "author": "Tharoor, Shashi"}, {"title": "Nehru: The Invention of India", "isbn": "1559707372", "author": "Tharoor, Shashi"}, {"title": "Gandhi: An Autobiography", "isbn": "", "author": "Gandhi, Mahatma"}, {"title": "The Great Indian Novel", "isbn": "1559701943", "author": "Tharoor, Shashi"}, {"title": "Why I am a Hindu", "isbn": "9386021102", "author": "Tharoor, Shashi"}, {"title": "An Era of Darkness: The British Empire in India", "isbn": "938306465X", "author": "Tharoor, Shashi"}, {"title": "India Since Independence", "isbn": "0143104098", "author": "Chandra, Bipan"}, {"title": "India's Struggle for Independence", "isbn": "0140107819", "author": "Chandra, Bipan"}, {"title": "History of Modern India", "isbn": "8125036849", "author": "Chandra, Bipan"}, {"title": "Pax Indica: India and the World of the 21st Century", "isbn": "067008574X", "author": "Tharoor, Shashi"}, {"title": "The Argumentative Indian: Writings on Indian History, Culture and Identity", "isbn": "031242602X", "author": "Sen, Amartya"}, {"title": "India After Gandhi: The History of the World's Largest Democracy", "isbn": "0060198818", "author": "Guha, Ramachandra"}, {"title": "The Discovery of India", "isbn": "0143031031", "author": "Nehru, Jawaharlal"}, {"title": "The City of Joy", "isbn": "0446355569", "author": "Lapierre, Dominique"}, {"title": "Freedom At Midnight", "isbn": "8125904808", "author": "Lapierre, Dominique"}, {"title": "The Fever Code (The Maze Runner, #0.5)", "isbn": "0553513095", "author": "Dashner, James"}, {"title": "The Kill Order (The Maze Runner, #0.4)", "isbn": "0385742886", "author": "Dashner, James"}, {"title": "The Death Cure (The Maze Runner, #3)", "isbn": "0385738773", "author": "Dashner, James"}, {"title": "The Scorch Trials (The Maze Runner, #2)", "isbn": "0385738757", "author": "Dashner, James"}, {"title": "The Maze Runner (The Maze Runner, #1)", "isbn": "0385737947", "author": "Dashner, James"}, {"title": "Inheritance (The Inheritance Cycle, #4)", "isbn": "0375856110", "author": "Paolini, Christopher"}, {"title": "Brisingr (The Inheritance Cycle #3)", "isbn": "0375826726", "author": "Paolini, Christopher"}, {"title": "Eldest (The Inheritance Cycle #2)", "isbn": "0375840400", "author": "Paolini, Christopher"}, {"title": "Blood Promise (Vampire Academy, #4)", "isbn": "1595141987", "author": "Mead, Richelle"}, {"title": "Frostbite (Vampire Academy, #2)", "isbn": "", "author": "Mead, Richelle"}, {"title": "Allegiant (Divergent, #3)", "isbn": "0007524277", "author": "Roth, Veronica"}, {"title": "Insurgent (Divergent, #2)", "isbn": "0007442912", "author": "Roth, Veronica"}, {"title": "Mockingjay (The Hunger Games, #3)", "isbn": "0439023513", "author": "Collins, Suzanne"}, {"title": "Catching Fire (The Hunger Games, #2)", "isbn": "0439023491", "author": "Collins, Suzanne"}, {"title": "Midnight Sun (The Twilight Saga, #5)", "isbn": "031670704X", "author": "Meyer, Stephenie"}, {"title": "Breaking Dawn (The Twilight Saga, #4)", "isbn": "031606792X", "author": "Meyer, Stephenie"}, {"title": "Eclipse (The Twilight Saga, #3)", "isbn": "0316160202", "author": "Meyer, Stephenie"}, {"title": "New Moon (The Twilight Saga, #2)", "isbn": "0316160199", "author": "Meyer, Stephenie"}, {"title": "Life and Death: Twilight Reimagined (The Twilight Saga)", "isbn": "0316505455", "author": "Meyer, Stephenie"}, {"title": "9 From the Nine Worlds", "isbn": "1368024041", "author": "Riordan, Rick"}, {"title": "Magnus Chase and the Gods of Asgard (Magnus Chase and the Gods of Asgard, #1-3)", "isbn": "1484767373", "author": "Riordan, Rick"}, {"title": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)", "isbn": "1423160932", "author": "Riordan, Rick"}, {"title": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)", "isbn": "1423160924", "author": "Riordan, Rick"}, {"title": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)", "isbn": "1423160916", "author": "Riordan, Rick"}, {"title": "The Serpent's Shadow (The Kane Chronicles, #3)", "isbn": "1423140575", "author": "Riordan, Rick"}, {"title": "The Throne of Fire (The Kane Chronicles, #2)", "isbn": "1423140567", "author": "Riordan, Rick"}, {"title": "The Red Pyramid (The Kane Chronicles, #1)", "isbn": "1423113381", "author": "Riordan, Rick"}, {"title": "The Demigod Diaries (The Heroes of Olympus)", "isbn": "1423163001", "author": "Riordan, Rick"}, {"title": "The Blood of Olympus (The Heroes of Olympus, #5)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The House of Hades (The Heroes of Olympus, #4)", "isbn": "1423146727", "author": "Riordan, Rick"}, {"title": "The Mark of Athena (The Heroes of Olympus, #3)", "isbn": "1423140605", "author": "Riordan, Rick"}, {"title": "The Son of Neptune (The Heroes of Olympus, #2)", "isbn": "1423140591", "author": "Riordan, Rick"}, {"title": "The Lost Hero (The Heroes of Olympus, #1)", "isbn": "142311339X", "author": "Riordan, Rick"}, {"title": "Percy Jackson's Greek Gods", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Singer of Apollo (Camp Half-Blood Chronicles, #5.1)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Last Olympian (Percy Jackson and the Olympians, #5)", "isbn": "1423101472", "author": "Riordan, Rick"}, {"title": "The Demigod Files (Percy Jackson and the Olympians)", "isbn": "142312166X", "author": "Riordan, Rick"}, {"title": "Percy Jackson. Il racconto segreto", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Sword of Hades (Percy Jackson and the Olympians, #4.5)", "isbn": "0955944686", "author": "Riordan, Rick"}, {"title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)", "isbn": "1423101464", "author": "Riordan, Rick"}, {"title": "The Titan’s Curse (Percy Jackson and the Olympians, #3)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)", "isbn": "0786856866", "author": "Riordan, Rick"}, {"title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)", "isbn": "0540027340", "author": "Tiffany, John"}, {"title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)", "isbn": "0439139597", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)", "isbn": "043965548X", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Ender’s Game (Ender's Saga, #1)", "isbn": "0812550706", "author": "Card, Orson Scott"}, {"title": "Pride and Prejudice", "isbn": "1441341706", "author": "Austen, Jane"}, {"title": "Eragon (The Inheritance Cycle #1)", "isbn": "0375826696", "author": "Paolini, Christopher"}, {"title": "Vampire Academy (Vampire Academy, #1)", "isbn": "159514174X", "author": "Mead, Richelle"}, {"title": "To Kill a Mockingbird", "isbn": "0060935464", "author": "Lee, Harper"}, {"title": "Divergent (Divergent, #1)", "isbn": "0062024035", "author": "Roth, Veronica"}, {"title": "The Fault in Our Stars", "isbn": "", "author": "Green, John"}, {"title": "The Hunger Games (The Hunger Games, #1)", "isbn": "0439023483", "author": "Collins, Suzanne"}, {"title": "Twilight (The Twilight Saga, #1)", "isbn": "0316015849", "author": "Meyer, Stephenie"}, {"title": "The Lightning Thief (Percy Jackson and the Olympians, #1)", "isbn": "0786838655", "author": "Riordan, Rick"}, {"title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)", "isbn": "0439554934", "author": "Rowling, J.K."}, {"title": "Digital Fortress", "isbn": "", "author": "Brown, Dan"}, {"title": "Deception Point", "isbn": "0671027387", "author": "Brown, Dan"}, {"title": "Origin (Robert Langdon, #5)", "isbn": "0385514239", "author": "Brown, Dan"}, {"title": "Inferno (Robert Langdon, #4)", "isbn": "0385537859", "author": "Brown, Dan"}]},
-{"profile_name": "varun krishna s", "currently-reading": [{"title": "1984", "isbn": "0452284236", "author": "Orwell, George"}, {"title": "Cubbon Park: The Green Heart of Bengaluru", "isbn": "9354472184", "author": "Pai, Roopa"}, {"title": "Hooked: How to Build Habit-Forming Products", "isbn": "1591847788", "author": "Eyal, Nir"}, {"title": "The Design of Everyday Things", "isbn": "0465067107", "author": "Norman, Donald A."}, {"title": "Meditations", "isbn": "0140449337", "author": "Marcus Aurelius"}], "to-read": [{"title": "The Assassination of Rajiv Gandhi", "isbn": "0670088706", "author": "Gopal, Neena"}, {"title": "Cannibalism: A Perfectly Natural History", "isbn": "1616204621", "author": "Schutt, Bill"}, {"title": "Debt: The First 5,000 Years", "isbn": "1933633867", "author": "Graeber, David"}, {"title": "Thomas Jefferson: The Art of Power", "isbn": "", "author": "Meacham, Jon"}, {"title": "Hackers: Heroes of the Computer Revolution", "isbn": "0141000511", "author": "Levy, Steven"}, {"title": "Identity and Violence: The Illusion of Destiny", "isbn": "0393329291", "author": "Sen, Amartya"}, {"title": "Development as Freedom", "isbn": "0385720270", "author": "Sen, Amartya"}, {"title": "The Poorer Nations: A Possible History of the Global South", "isbn": "1844679527", "author": "Prashad, Vijay"}, {"title": "Early India: From the Origins to AD 1300", "isbn": "0520931238", "author": "Thapar, Romila"}, {"title": "Eminent Historians: Their Technology, Their Line, Their Fraud", "isbn": "8190019988", "author": "Shourie, Arun"}, {"title": "Caste System : Myths Reality Challenge", "isbn": "", "author": "Sinha, Sachchidanand"}, {"title": "In Spite Of The Gods", "isbn": "0349123462", "author": "Luce, Edward"}, {"title": "Glimpses of World History", "isbn": "0143031058", "author": "Nehru, Jawaharlal"}, {"title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power", "isbn": "1559708611", "author": "Tharoor, Shashi"}, {"title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857", "isbn": "1400043107", "author": "Dalrymple, William"}, {"title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)", "isbn": "8172231245", "author": "Radhakrishnan, Sarvepalli"}, {"title": "Imagining India: The Idea of a Renewed Nation", "isbn": "1594202044", "author": "Nilekani, Nandan"}, {"title": "Everybody Loves a Good Drought", "isbn": "", "author": "Palagummi Sainath"}, {"title": "City of Djinns: A Year in Delhi", "isbn": "0142001007", "author": "Dalrymple, William"}, {"title": "Dongri To Dubai : Six Decades of The Mumbai Mafia", "isbn": "8174368949", "author": "Zaidi, S. Hussain"}], "read": [{"title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving", "isbn": "0960191038", "author": "Minto, Barbara"}, {"title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary", "isbn": "0596001088", "author": "Raymond, Eric S."}, {"title": "The White Tiger", "isbn": "1416562591", "author": "Adiga, Aravind"}, {"title": "The Black Swan: The Impact of the Highly Improbable", "isbn": "0141034599", "author": "Taleb, Nassim Nicholas"}, {"title": "Ecology and Equity", "isbn": "0140257616", "author": "Gadgil"}, {"title": "How Do You Live?", "isbn": "1846046459", "author": "Yoshino, Genzaburo"}, {"title": "Dune (Dune, #1)", "isbn": "", "author": "Herbert, Frank"}, {"title": "Shyam: An Illustrated Retelling of the Bhagavata", "isbn": "0670084468", "author": "Pattanaik, Devdutt"}, {"title": "Myth = Mithya: A Handbook of Hindu Mythology", "isbn": "0143099701", "author": "Pattanaik, Devdutt"}, {"title": "My Gita", "isbn": "8129137704", "author": "Pattanaik, Devdutt"}, {"title": "Jaya", "isbn": "014310425X", "author": "Pattanaik, Devdutt"}, {"title": "The Holy Geeta", "isbn": "", "author": "Saraswati, Chinmayananda"}, {"title": "The Oath of the Vayuputras (Shiva Trilogy, #3)", "isbn": "9382618341", "author": "Tripathi, Amish"}, {"title": "The Secret of the Nagas (Shiva Trilogy, #2)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "The Immortals of Meluha (Shiva Trilogy, #1)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)", "isbn": "", "author": "Tripathi, Amish"}, {"title": "Sita: Warrior of Mithila (Ram Chandra, #2)", "isbn": "9386224585", "author": "Tripathi, Amish"}, {"title": "Scion of Ikshvaku (Ram Chandra, #1)", "isbn": "9385152149", "author": "Tripathi, Amish"}, {"title": "The Emergency: A Personal History", "isbn": "", "author": "Kapoor, Coomi"}, {"title": "One Life Is Not Enough", "isbn": "", "author": "Singh, K. Natwar"}, {"title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)", "isbn": "", "author": "Baru, Sanjaya"}, {"title": "The Paradoxical Prime Minister", "isbn": "", "author": "Tharoor, Shashi"}, {"title": "Nehru: The Invention of India", "isbn": "1559707372", "author": "Tharoor, Shashi"}, {"title": "Gandhi: An Autobiography", "isbn": "", "author": "Gandhi, Mahatma"}, {"title": "The Great Indian Novel", "isbn": "1559701943", "author": "Tharoor, Shashi"}, {"title": "Why I am a Hindu", "isbn": "9386021102", "author": "Tharoor, Shashi"}, {"title": "An Era of Darkness: The British Empire in India", "isbn": "938306465X", "author": "Tharoor, Shashi"}, {"title": "India Since Independence", "isbn": "0143104098", "author": "Chandra, Bipan"}, {"title": "India's Struggle for Independence", "isbn": "0140107819", "author": "Chandra, Bipan"}, {"title": "History of Modern India", "isbn": "8125036849", "author": "Chandra, Bipan"}, {"title": "Pax Indica: India and the World of the 21st Century", "isbn": "067008574X", "author": "Tharoor, Shashi"}, {"title": "The Argumentative Indian: Writings on Indian History, Culture and Identity", "isbn": "031242602X", "author": "Sen, Amartya"}, {"title": "India After Gandhi: The History of the World's Largest Democracy", "isbn": "0060198818", "author": "Guha, Ramachandra"}, {"title": "The Discovery of India", "isbn": "0143031031", "author": "Nehru, Jawaharlal"}, {"title": "The City of Joy", "isbn": "0446355569", "author": "Lapierre, Dominique"}, {"title": "Freedom At Midnight", "isbn": "8125904808", "author": "Lapierre, Dominique"}, {"title": "The Fever Code (The Maze Runner, #0.5)", "isbn": "0553513095", "author": "Dashner, James"}, {"title": "The Kill Order (The Maze Runner, #0.4)", "isbn": "0385742886", "author": "Dashner, James"}, {"title": "The Death Cure (The Maze Runner, #3)", "isbn": "0385738773", "author": "Dashner, James"}, {"title": "The Scorch Trials (The Maze Runner, #2)", "isbn": "0385738757", "author": "Dashner, James"}, {"title": "The Maze Runner (The Maze Runner, #1)", "isbn": "0385737947", "author": "Dashner, James"}, {"title": "Inheritance (The Inheritance Cycle, #4)", "isbn": "0375856110", "author": "Paolini, Christopher"}, {"title": "Brisingr (The Inheritance Cycle #3)", "isbn": "0375826726", "author": "Paolini, Christopher"}, {"title": "Eldest (The Inheritance Cycle #2)", "isbn": "0375840400", "author": "Paolini, Christopher"}, {"title": "Blood Promise (Vampire Academy, #4)", "isbn": "1595141987", "author": "Mead, Richelle"}, {"title": "Frostbite (Vampire Academy, #2)", "isbn": "", "author": "Mead, Richelle"}, {"title": "Allegiant (Divergent, #3)", "isbn": "0007524277", "author": "Roth, Veronica"}, {"title": "Insurgent (Divergent, #2)", "isbn": "0007442912", "author": "Roth, Veronica"}, {"title": "Mockingjay (The Hunger Games, #3)", "isbn": "0439023513", "author": "Collins, Suzanne"}, {"title": "Catching Fire (The Hunger Games, #2)", "isbn": "0439023491", "author": "Collins, Suzanne"}, {"title": "Midnight Sun (The Twilight Saga, #5)", "isbn": "031670704X", "author": "Meyer, Stephenie"}, {"title": "Breaking Dawn (The Twilight Saga, #4)", "isbn": "031606792X", "author": "Meyer, Stephenie"}, {"title": "Eclipse (The Twilight Saga, #3)", "isbn": "0316160202", "author": "Meyer, Stephenie"}, {"title": "New Moon (The Twilight Saga, #2)", "isbn": "0316160199", "author": "Meyer, Stephenie"}, {"title": "Life and Death: Twilight Reimagined (The Twilight Saga)", "isbn": "0316505455", "author": "Meyer, Stephenie"}, {"title": "9 From the Nine Worlds", "isbn": "1368024041", "author": "Riordan, Rick"}, {"title": "Magnus Chase and the Gods of Asgard (Magnus Chase and the Gods of Asgard, #1-3)", "isbn": "1484767373", "author": "Riordan, Rick"}, {"title": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)", "isbn": "1423160932", "author": "Riordan, Rick"}, {"title": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)", "isbn": "1423160924", "author": "Riordan, Rick"}, {"title": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)", "isbn": "1423160916", "author": "Riordan, Rick"}, {"title": "The Serpent's Shadow (The Kane Chronicles, #3)", "isbn": "1423140575", "author": "Riordan, Rick"}, {"title": "The Throne of Fire (The Kane Chronicles, #2)", "isbn": "1423140567", "author": "Riordan, Rick"}, {"title": "The Red Pyramid (The Kane Chronicles, #1)", "isbn": "1423113381", "author": "Riordan, Rick"}, {"title": "The Demigod Diaries (The Heroes of Olympus)", "isbn": "1423163001", "author": "Riordan, Rick"}, {"title": "The Blood of Olympus (The Heroes of Olympus, #5)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The House of Hades (The Heroes of Olympus, #4)", "isbn": "1423146727", "author": "Riordan, Rick"}, {"title": "The Mark of Athena (The Heroes of Olympus, #3)", "isbn": "1423140605", "author": "Riordan, Rick"}, {"title": "The Son of Neptune (The Heroes of Olympus, #2)", "isbn": "1423140591", "author": "Riordan, Rick"}, {"title": "The Lost Hero (The Heroes of Olympus, #1)", "isbn": "142311339X", "author": "Riordan, Rick"}, {"title": "Percy Jackson's Greek Gods", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Singer of Apollo (Camp Half-Blood Chronicles, #5.1)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Last Olympian (Percy Jackson and the Olympians, #5)", "isbn": "1423101472", "author": "Riordan, Rick"}, {"title": "The Demigod Files (Percy Jackson and the Olympians)", "isbn": "142312166X", "author": "Riordan, Rick"}, {"title": "Percy Jackson. Il racconto segreto", "isbn": "", "author": "Riordan, Rick"}, {"title": "Percy Jackson and the Sword of Hades (Percy Jackson and the Olympians, #4.5)", "isbn": "0955944686", "author": "Riordan, Rick"}, {"title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)", "isbn": "1423101464", "author": "Riordan, Rick"}, {"title": "The Titan’s Curse (Percy Jackson and the Olympians, #3)", "isbn": "", "author": "Riordan, Rick"}, {"title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)", "isbn": "0786856866", "author": "Riordan, Rick"}, {"title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)", "isbn": "0540027340", "author": "Tiffany, John"}, {"title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)", "isbn": "0439139597", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)", "isbn": "043965548X", "author": "Rowling, J.K."}, {"title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)", "isbn": "", "author": "Rowling, J.K."}, {"title": "Ender’s Game (Ender's Saga, #1)", "isbn": "0812550706", "author": "Card, Orson Scott"}, {"title": "Pride and Prejudice", "isbn": "1441341706", "author": "Austen, Jane"}, {"title": "Eragon (The Inheritance Cycle #1)", "isbn": "0375826696", "author": "Paolini, Christopher"}, {"title": "Vampire Academy (Vampire Academy, #1)", "isbn": "159514174X", "author": "Mead, Richelle"}, {"title": "To Kill a Mockingbird", "isbn": "0060935464", "author": "Lee, Harper"}, {"title": "Divergent (Divergent, #1)", "isbn": "0062024035", "author": "Roth, Veronica"}, {"title": "The Fault in Our Stars", "isbn": "", "author": "Green, John"}, {"title": "The Hunger Games (The Hunger Games, #1)", "isbn": "0439023483", "author": "Collins, Suzanne"}, {"title": "Twilight (The Twilight Saga, #1)", "isbn": "0316015849", "author": "Meyer, Stephenie"}, {"title": "The Lightning Thief (Percy Jackson and the Olympians, #1)", "isbn": "0786838655", "author": "Riordan, Rick"}, {"title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)", "isbn": "0439554934", "author": "Rowling, J.K."}, {"title": "Digital Fortress", "isbn": "", "author": "Brown, Dan"}, {"title": "Deception Point", "isbn": "0671027387", "author": "Brown, Dan"}, {"title": "Origin (Robert Langdon, #5)", "isbn": "0385514239", "author": "Brown, Dan"}, {"title": "Inferno (Robert Langdon, #4)", "isbn": "0385537859", "author": "Brown, Dan"}, {"title": "The Lost Symbol (Robert Langdon, #3)", "isbn": "0385504225", "author": "Brown, Dan"}, {"title": "The da Vinci Code (Robert Langdon, #2)", "isbn": "", "author": "Brown, Dan"}, {"title": "Angels & Demons (Robert Langdon, #1)", "isbn": "1416524797", "author": "Brown, Dan"}, {"title": "The Alchemist", "isbn": "0062315005", "author": "Coelho, Paulo"}]}
+    {
+        "profile_name": "varun krishna s",
+        "currently-reading": [
+            {
+                "title": "1984",
+                "isbn": "0452284236",
+                "author": "Orwell, George"
+            },
+            {
+                "title": "Cubbon Park: The Green Heart of Bengaluru",
+                "isbn": "9354472184",
+                "author": "Pai, Roopa"
+            },
+            {
+                "title": "Hooked: How to Build Habit-Forming Products",
+                "isbn": "1591847788",
+                "author": "Eyal, Nir"
+            },
+            {
+                "title": "The Design of Everyday Things",
+                "isbn": "0465067107",
+                "author": "Norman, Donald A."
+            },
+            {
+                "title": "Meditations",
+                "isbn": "0140449337",
+                "author": "Marcus Aurelius"
+            }
+        ],
+        "read": [
+            {
+                "title": "The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving",
+                "isbn": "0960191038",
+                "author": "Minto, Barbara"
+            },
+            {
+                "title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+                "isbn": "0596001088",
+                "author": "Raymond, Eric S."
+            },
+            {
+                "title": "The White Tiger",
+                "isbn": "1416562591",
+                "author": "Adiga, Aravind"
+            },
+            {
+                "title": "The Black Swan: The Impact of the Highly Improbable",
+                "isbn": "0141034599",
+                "author": "Taleb, Nassim Nicholas"
+            },
+            {
+                "title": "Ecology and Equity",
+                "isbn": "0140257616",
+                "author": "Gadgil"
+            },
+            {
+                "title": "How Do You Live?",
+                "isbn": "1846046459",
+                "author": "Yoshino, Genzaburo"
+            },
+            {
+                "title": "Dune (Dune, #1)",
+                "isbn": "",
+                "author": "Herbert, Frank"
+            },
+            {
+                "title": "Shyam: An Illustrated Retelling of the Bhagavata",
+                "isbn": "0670084468",
+                "author": "Pattanaik, Devdutt"
+            },
+            {
+                "title": "Myth = Mithya: A Handbook of Hindu Mythology",
+                "isbn": "0143099701",
+                "author": "Pattanaik, Devdutt"
+            },
+            {
+                "title": "My Gita",
+                "isbn": "8129137704",
+                "author": "Pattanaik, Devdutt"
+            },
+            {
+                "title": "Jaya",
+                "isbn": "014310425X",
+                "author": "Pattanaik, Devdutt"
+            },
+            {
+                "title": "The Holy Geeta",
+                "isbn": "",
+                "author": "Saraswati, Chinmayananda"
+            },
+            {
+                "title": "The Oath of the Vayuputras (Shiva Trilogy, #3)",
+                "isbn": "9382618341",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "The Secret of the Nagas (Shiva Trilogy, #2)",
+                "isbn": "",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "The Immortals of Meluha (Shiva Trilogy, #1)",
+                "isbn": "",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "Raavan: Enemy of Aryavarta (Ram Chandra, #3)",
+                "isbn": "",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "Sita: Warrior of Mithila (Ram Chandra, #2)",
+                "isbn": "9386224585",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "Scion of Ikshvaku (Ram Chandra, #1)",
+                "isbn": "9385152149",
+                "author": "Tripathi, Amish"
+            },
+            {
+                "title": "The Emergency: A Personal History",
+                "isbn": "",
+                "author": "Kapoor, Coomi"
+            },
+            {
+                "title": "One Life Is Not Enough",
+                "isbn": "",
+                "author": "Singh, K. Natwar"
+            },
+            {
+                "title": "The Accidental Prime Minister (The Making and Unmaking of Manmohan Singh)",
+                "isbn": "",
+                "author": "Baru, Sanjaya"
+            },
+            {
+                "title": "The Paradoxical Prime Minister",
+                "isbn": "",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "Nehru: The Invention of India",
+                "isbn": "1559707372",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "Gandhi: An Autobiography",
+                "isbn": "",
+                "author": "Gandhi, Mahatma"
+            },
+            {
+                "title": "The Great Indian Novel",
+                "isbn": "1559701943",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "Why I am a Hindu",
+                "isbn": "9386021102",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "An Era of Darkness: The British Empire in India",
+                "isbn": "938306465X",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "India Since Independence",
+                "isbn": "0143104098",
+                "author": "Chandra, Bipan"
+            },
+            {
+                "title": "India's Struggle for Independence",
+                "isbn": "0140107819",
+                "author": "Chandra, Bipan"
+            },
+            {
+                "title": "History of Modern India",
+                "isbn": "8125036849",
+                "author": "Chandra, Bipan"
+            },
+            {
+                "title": "Pax Indica: India and the World of the 21st Century",
+                "isbn": "067008574X",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "The Argumentative Indian: Writings on Indian History, Culture and Identity",
+                "isbn": "031242602X",
+                "author": "Sen, Amartya"
+            },
+            {
+                "title": "India After Gandhi: The History of the World's Largest Democracy",
+                "isbn": "0060198818",
+                "author": "Guha, Ramachandra"
+            },
+            {
+                "title": "The Discovery of India",
+                "isbn": "0143031031",
+                "author": "Nehru, Jawaharlal"
+            },
+            {
+                "title": "The City of Joy",
+                "isbn": "0446355569",
+                "author": "Lapierre, Dominique"
+            },
+            {
+                "title": "Freedom At Midnight",
+                "isbn": "8125904808",
+                "author": "Lapierre, Dominique"
+            },
+            {
+                "title": "The Fever Code (The Maze Runner, #0.5)",
+                "isbn": "0553513095",
+                "author": "Dashner, James"
+            },
+            {
+                "title": "The Kill Order (The Maze Runner, #0.4)",
+                "isbn": "0385742886",
+                "author": "Dashner, James"
+            },
+            {
+                "title": "The Death Cure (The Maze Runner, #3)",
+                "isbn": "0385738773",
+                "author": "Dashner, James"
+            },
+            {
+                "title": "The Scorch Trials (The Maze Runner, #2)",
+                "isbn": "0385738757",
+                "author": "Dashner, James"
+            },
+            {
+                "title": "The Maze Runner (The Maze Runner, #1)",
+                "isbn": "0385737947",
+                "author": "Dashner, James"
+            },
+            {
+                "title": "Inheritance (The Inheritance Cycle, #4)",
+                "isbn": "0375856110",
+                "author": "Paolini, Christopher"
+            },
+            {
+                "title": "Brisingr (The Inheritance Cycle #3)",
+                "isbn": "0375826726",
+                "author": "Paolini, Christopher"
+            },
+            {
+                "title": "Eldest (The Inheritance Cycle #2)",
+                "isbn": "0375840400",
+                "author": "Paolini, Christopher"
+            },
+            {
+                "title": "Blood Promise (Vampire Academy, #4)",
+                "isbn": "1595141987",
+                "author": "Mead, Richelle"
+            },
+            {
+                "title": "Frostbite (Vampire Academy, #2)",
+                "isbn": "",
+                "author": "Mead, Richelle"
+            },
+            {
+                "title": "Allegiant (Divergent, #3)",
+                "isbn": "0007524277",
+                "author": "Roth, Veronica"
+            },
+            {
+                "title": "Insurgent (Divergent, #2)",
+                "isbn": "0007442912",
+                "author": "Roth, Veronica"
+            },
+            {
+                "title": "Mockingjay (The Hunger Games, #3)",
+                "isbn": "0439023513",
+                "author": "Collins, Suzanne"
+            },
+            {
+                "title": "Catching Fire (The Hunger Games, #2)",
+                "isbn": "0439023491",
+                "author": "Collins, Suzanne"
+            },
+            {
+                "title": "Midnight Sun (The Twilight Saga, #5)",
+                "isbn": "031670704X",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "Breaking Dawn (The Twilight Saga, #4)",
+                "isbn": "031606792X",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "Eclipse (The Twilight Saga, #3)",
+                "isbn": "0316160202",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "New Moon (The Twilight Saga, #2)",
+                "isbn": "0316160199",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "Life and Death: Twilight Reimagined (The Twilight Saga)",
+                "isbn": "0316505455",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "9 From the Nine Worlds",
+                "isbn": "1368024041",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Magnus Chase and the Gods of Asgard (Magnus Chase and the Gods of Asgard, #1-3)",
+                "isbn": "1484767373",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)",
+                "isbn": "1423160932",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)",
+                "isbn": "1423160924",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+                "isbn": "1423160916",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Serpent's Shadow (The Kane Chronicles, #3)",
+                "isbn": "1423140575",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Throne of Fire (The Kane Chronicles, #2)",
+                "isbn": "1423140567",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Red Pyramid (The Kane Chronicles, #1)",
+                "isbn": "1423113381",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Demigod Diaries (The Heroes of Olympus)",
+                "isbn": "1423163001",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Blood of Olympus (The Heroes of Olympus, #5)",
+                "isbn": "",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The House of Hades (The Heroes of Olympus, #4)",
+                "isbn": "1423146727",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Mark of Athena (The Heroes of Olympus, #3)",
+                "isbn": "1423140605",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Son of Neptune (The Heroes of Olympus, #2)",
+                "isbn": "1423140591",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Lost Hero (The Heroes of Olympus, #1)",
+                "isbn": "142311339X",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Percy Jackson's Greek Gods",
+                "isbn": "",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Percy Jackson and the Singer of Apollo (Camp Half-Blood Chronicles, #5.1)",
+                "isbn": "",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+                "isbn": "1423101472",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Demigod Files (Percy Jackson and the Olympians)",
+                "isbn": "142312166X",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Percy Jackson. Il racconto segreto",
+                "isbn": "",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Percy Jackson and the Sword of Hades (Percy Jackson and the Olympians, #4.5)",
+                "isbn": "0955944686",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+                "isbn": "1423101464",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Titan’s Curse (Percy Jackson and the Olympians, #3)",
+                "isbn": "",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+                "isbn": "0786856866",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)",
+                "isbn": "0540027340",
+                "author": "Tiffany, John"
+            },
+            {
+                "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+                "isbn": "",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+                "isbn": "",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+                "isbn": "",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+                "isbn": "0439139597",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+                "isbn": "043965548X",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+                "isbn": "",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Ender’s Game (Ender's Saga, #1)",
+                "isbn": "0812550706",
+                "author": "Card, Orson Scott"
+            },
+            {
+                "title": "Pride and Prejudice",
+                "isbn": "1441341706",
+                "author": "Austen, Jane"
+            },
+            {
+                "title": "Eragon (The Inheritance Cycle #1)",
+                "isbn": "0375826696",
+                "author": "Paolini, Christopher"
+            },
+            {
+                "title": "Vampire Academy (Vampire Academy, #1)",
+                "isbn": "159514174X",
+                "author": "Mead, Richelle"
+            },
+            {
+                "title": "To Kill a Mockingbird",
+                "isbn": "0060935464",
+                "author": "Lee, Harper"
+            },
+            {
+                "title": "Divergent (Divergent, #1)",
+                "isbn": "0062024035",
+                "author": "Roth, Veronica"
+            },
+            {
+                "title": "The Fault in Our Stars",
+                "isbn": "",
+                "author": "Green, John"
+            },
+            {
+                "title": "The Hunger Games (The Hunger Games, #1)",
+                "isbn": "0439023483",
+                "author": "Collins, Suzanne"
+            },
+            {
+                "title": "Twilight (The Twilight Saga, #1)",
+                "isbn": "0316015849",
+                "author": "Meyer, Stephenie"
+            },
+            {
+                "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+                "isbn": "0786838655",
+                "author": "Riordan, Rick"
+            },
+            {
+                "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+                "isbn": "0439554934",
+                "author": "Rowling, J.K."
+            },
+            {
+                "title": "Digital Fortress",
+                "isbn": "",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "Deception Point",
+                "isbn": "0671027387",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "Origin (Robert Langdon, #5)",
+                "isbn": "0385514239",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "Inferno (Robert Langdon, #4)",
+                "isbn": "0385537859",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "The Lost Symbol (Robert Langdon, #3)",
+                "isbn": "0385504225",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "The da Vinci Code (Robert Langdon, #2)",
+                "isbn": "",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "Angels & Demons (Robert Langdon, #1)",
+                "isbn": "1416524797",
+                "author": "Brown, Dan"
+            },
+            {
+                "title": "The Alchemist",
+                "isbn": "0062315005",
+                "author": "Coelho, Paulo"
+            }
+        ],
+        "to-read": [
+            {
+                "title": "The Assassination of Rajiv Gandhi",
+                "isbn": "0670088706",
+                "author": "Gopal, Neena"
+            },
+            {
+                "title": "Cannibalism: A Perfectly Natural History",
+                "isbn": "1616204621",
+                "author": "Schutt, Bill"
+            },
+            {
+                "title": "Debt: The First 5,000 Years",
+                "isbn": "1933633867",
+                "author": "Graeber, David"
+            },
+            {
+                "title": "Thomas Jefferson: The Art of Power",
+                "isbn": "",
+                "author": "Meacham, Jon"
+            },
+            {
+                "title": "Hackers: Heroes of the Computer Revolution",
+                "isbn": "0141000511",
+                "author": "Levy, Steven"
+            },
+            {
+                "title": "Identity and Violence: The Illusion of Destiny",
+                "isbn": "0393329291",
+                "author": "Sen, Amartya"
+            },
+            {
+                "title": "Development as Freedom",
+                "isbn": "0385720270",
+                "author": "Sen, Amartya"
+            },
+            {
+                "title": "The Poorer Nations: A Possible History of the Global South",
+                "isbn": "1844679527",
+                "author": "Prashad, Vijay"
+            },
+            {
+                "title": "Early India: From the Origins to AD 1300",
+                "isbn": "0520931238",
+                "author": "Thapar, Romila"
+            },
+            {
+                "title": "Eminent Historians: Their Technology, Their Line, Their Fraud",
+                "isbn": "8190019988",
+                "author": "Shourie, Arun"
+            },
+            {
+                "title": "Caste System : Myths Reality Challenge",
+                "isbn": "",
+                "author": "Sinha, Sachchidanand"
+            },
+            {
+                "title": "In Spite Of The Gods",
+                "isbn": "0349123462",
+                "author": "Luce, Edward"
+            },
+            {
+                "title": "Glimpses of World History",
+                "isbn": "0143031058",
+                "author": "Nehru, Jawaharlal"
+            },
+            {
+                "title": "The Elephant, the Tiger, and the Cell Phone: Reflections on India, the Emerging 21st-Century Power",
+                "isbn": "1559708611",
+                "author": "Tharoor, Shashi"
+            },
+            {
+                "title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857",
+                "isbn": "1400043107",
+                "author": "Dalrymple, William"
+            },
+            {
+                "title": "The Principal Upanishads: Edited with Introduction, Text, Translation and Notes (English, Sanskrit and Sanskrit Edition)",
+                "isbn": "8172231245",
+                "author": "Radhakrishnan, Sarvepalli"
+            },
+            {
+                "title": "Imagining India: The Idea of a Renewed Nation",
+                "isbn": "1594202044",
+                "author": "Nilekani, Nandan"
+            },
+            {
+                "title": "Everybody Loves a Good Drought",
+                "isbn": "",
+                "author": "Palagummi Sainath"
+            },
+            {
+                "title": "City of Djinns: A Year in Delhi",
+                "isbn": "0142001007",
+                "author": "Dalrymple, William"
+            },
+            {
+                "title": "Dongri To Dubai : Six Decades of The Mumbai Mafia",
+                "isbn": "8174368949",
+                "author": "Zaidi, S. Hussain"
+            }
+        ]
+    }
 ]
