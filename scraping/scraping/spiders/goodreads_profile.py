@@ -1,10 +1,32 @@
 import scrapy
+import sys
+import os
+import django
+
+# Dynamically set the path to find Django project
+# Set the correct base directory (the project root)
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../"))  # Moves up to goodreads-scrape/
+PROJECT_DIR = os.path.join(BASE_DIR, "scraper_api")  # Path to Django project
+
+# Ensure Django project is in Python path
+sys.path.insert(0, BASE_DIR)  
+sys.path.insert(0, PROJECT_DIR)  
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "scraper_api.settings")
+django.setup()
+
+from scraper.models import ScrapedBook, UserProfile  # Import Django models
 
 
 class GoodreadsProfileSpider(scrapy.Spider):
     name = "goodreads_profile"
     allowed_domains = ["goodreads.com"]
-    start_urls = ["https://www.goodreads.com/user/show/103608396-varun-krishna-s"]
+    # start_urls = ["https://www.goodreads.com/user/show/103608396-varun-krishna-s"]
+
+    def __init__(self, start_url=None, *args, **kwargs):
+        super(GoodreadsProfileSpider, self).__init__(*args, **kwargs)
+        self.start_urls = [start_url] if start_url else []
+        self.user_data = {"profile_name": None, "goodreads_profile": start_url, "books": []}  # Store scraped data
+
 
     def parse(self, response):
         """
@@ -14,14 +36,16 @@ class GoodreadsProfileSpider(scrapy.Spider):
         3. Read
         """
         profile_name = response.xpath('//*[@id="profileNameTopHeading"]/text()').get()
-        user_data = {
-            "profile_name": profile_name.strip() if profile_name else None,
-            "currently-reading": [],
-            "read": [],
-            "to-read": []
-        }
-        
-        yield from self.parse_current_reads(response, user_data)
+        if profile_name:
+            profile_name = profile_name.strip()
+            # profile, created = UserProfile.objects.get_or_create(name=profile_name)
+            user_data = {
+                "profile_name": profile_name.strip() if profile_name else None,
+                "goodreads_profile": self.start_urls[0],
+                "books": []
+            }
+            
+            yield from self.parse_current_reads(response, user_data=user_data)
     
     def parse_current_reads(self, response, user_data):
         shelf = "currently-reading"
@@ -86,9 +110,11 @@ class GoodreadsProfileSpider(scrapy.Spider):
                 "title": book_title.strip() if book_title else None,
                 "isbn": book_isbn.strip() if book_isbn else None,
                 "author": book_author.strip() if book_author else None,
-                # "shelf": response.url.split("shelf=")[-1]
+                "shelf": response.url.split("shelf=")[-1]
             }
-            user_data[shelf].append(book_logged)
+            # book_logged["goodreads_profile"] = response.meta["user_data"]
+            user_data["books"].append(book_logged)
+            # ScrapedBook.objects.create(**book_logged)
 
         next_page = response.xpath("//a[contains(@class, 'next_page')]/@href").get()
         if next_page:
