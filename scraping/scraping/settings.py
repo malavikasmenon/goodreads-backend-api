@@ -69,6 +69,16 @@ ITEM_PIPELINES = {
     'scraping.pipelines.DjangoPipeline': 300,
 }
 
+from django.apps import AppConfig
+
+class ScraperApiConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'scraper_api'
+
+    def ready(self):
+        import scraper_api.signals  # Load signals
+
+
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

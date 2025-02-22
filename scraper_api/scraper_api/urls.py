@@ -16,10 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from scraper.views import save_scraped_data  # Import your view
-
+from scraper.views import save_scraped_data, UserRegistrationView, UserLoginView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("api/save_scraped_data/", save_scraped_data, name="save_scraped_data"),
+    path('register/', UserRegistrationView.as_view(), name='user-register'),
+    path('login/', UserLoginView.as_view(), name='user-login'),
 ]

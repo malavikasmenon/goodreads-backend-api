@@ -1,10 +1,11 @@
 from django.contrib import admin
+from django.contrib.auth.admin import UserAdmin
 from .models import UserProfile, ScrapedBook
 
 @admin.register(UserProfile)
 class UserProfileAdmin(admin.ModelAdmin):
-    list_display = ("profile_name", "created_at")  # Columns in the admin list view
-    search_fields = ("profile_name",)  # Enable search by name
+    list_display = ("username", "created_at")  # Columns in the admin list view
+    search_fields = ("username",)  # Enable search by name
     ordering = ("-created_at",)  # Show newest profiles first
 
 
