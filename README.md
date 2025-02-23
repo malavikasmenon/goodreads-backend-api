@@ -18,3 +18,12 @@ Since Goodreads don't have an active API set to be used, the public user profile
 
 
 # Implementation Details
+
+### Tech Stack
+- [Scrapy](https://docs.scrapy.org/en/latest/) is used for crawling the public user profiles on Goodreads.
+- Django for setting up APIs for the application including - registration, authentication, fetching & swiping on profiles
+- React is used for setting up the web application
+
+This repo contains the Scrapy Spider and the Django APIs, the frontend code can be accessed [here]().
+
+### Algorithm for Matching
