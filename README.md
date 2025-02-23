@@ -1,6 +1,6 @@
 
 # FOSS Hack Specific Details
-- Frontend Repo Link: 
+- Frontend Repo Link: https://github.com/malavikasmenon/goodreads-dating-app
 - LICENSE: GPL-3.0
 - Demo: 
 
