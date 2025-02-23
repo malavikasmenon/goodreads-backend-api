@@ -10,6 +10,8 @@ from rest_framework.response import Response
 from rest_framework import status
 from .serializers import UserRegistrationSerializer, UserLoginSerializer, UserProfileSerializer, InteractionSerializer, MatchSerializer
 from rest_framework import generics, permissions
+from django.utils.timezone import now
+
 
 
 @csrf_exempt
@@ -70,14 +72,68 @@ class UserProfileView(generics.RetrieveUpdateAPIView):
         return UserProfile.objects.get(user_id=self.request.user.user_id)
 
 
-# Get Recommended Profiles
+# # Get Recommended Profiles
+# class RecommendedProfilesView(generics.ListAPIView):
+#     serializer_class = UserProfileSerializer
+#     permission_classes = [permissions.IsAuthenticated]
+
+#     def get_queryset(self):
+#         user = self.request.user
+#         return UserProfile.objects.exclude(user_id=user.user_id)  # TODO: Improve with book-based matching
+    
+
 class RecommendedProfilesView(generics.ListAPIView):
     serializer_class = UserProfileSerializer
     permission_classes = [permissions.IsAuthenticated]
 
     def get_queryset(self):
         user = self.request.user
-        return UserProfile.objects.exclude(user_id=user.user_id)  # TODO: Improve with book-based matching
+        
+        # Calculate user's age
+        today = now().date()
+        user_age = today.year - user.date_of_birth.year - (
+            (today.month, today.day) < (user.date_of_birth.month, user.date_of_birth.day)
+        )
+
+        # Get users that match gender preference
+        gender_matches = UserProfile.objects.filter(
+            looking_for=user.gender,  
+            gender=user.looking_for
+        )
+
+        # Filter based on age preferences
+        age_filtered = gender_matches.filter(
+            min_age_preference__lte=user_age,  
+            max_age_preference__gte=user_age  
+        )
+
+        # Exclude current user from recommendations
+        filtered_profiles = age_filtered.exclude(user_id=user.user_id)
+
+        # Book-based matching
+        recommended_profiles = []
+        user_books = ScrapedBook.objects.filter(goodreads_profile=user)
+
+        user_current_reads = set(user_books.filter(shelf="currently-reading"))
+        user_to_read = set(user_books.filter(shelf="to-read"))
+        user_read = set(user_books.filter(shelf="read"))
+
+
+        for target_user in filtered_profiles:
+            target_books = ScrapedBook.objects.filter(goodreads_profile=target_user)
+
+            target_current_reads = set(target_books.filter(shelf="currently-reading"))
+            target_to_read = set(target_books.filter(shelf="to-read"))
+            target_read = set(target_books.filter(shelf="read"))
+
+            # Calculate book matching points
+            points = len(user_current_reads & target_current_reads) + len(user_to_read & target_to_read) + len(user_read & target_read)
+
+            if points > 2:
+                recommended_profiles.append(target_user)
+
+        return recommended_profiles
+
 
 
 # Like/Pass a Profile
