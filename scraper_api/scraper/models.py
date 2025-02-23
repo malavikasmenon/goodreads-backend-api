@@ -134,6 +134,7 @@ class Interaction(models.Model):
 class Match(models.Model):
     user1 = models.ForeignKey(UserProfile, on_delete=models.CASCADE, related_name="matches_initiated")
     user2 = models.ForeignKey(UserProfile, on_delete=models.CASCADE, related_name="matches_received")
+    goodreads_score = models.FloatField(null=True)
     created_at = models.DateTimeField(auto_now_add=True)
 
     class Meta:
