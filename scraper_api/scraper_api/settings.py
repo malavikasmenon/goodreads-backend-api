@@ -49,6 +49,12 @@ REST_FRAMEWORK = {
     )
 }
 
+SIMPLE_JWT = {
+    "USER_ID_FIELD": "user_id",
+    "USER_ID_CLAIM": "user_id",
+
+}
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -95,6 +101,12 @@ DATABASES = {
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
 
 # AUTH_USER_MODEL = 'scraper_api.UserProfile'
+AUTH_USER_MODEL = "scraper.UserProfile"  # Replace 'your_app_name' with your actual app name
+
+AUTHENTICATION_BACKENDS = [
+    "django.contrib.auth.backends.ModelBackend",  # Keep Django's default auth backend
+    "scraper.authentication.UserProfileBackend",  # Add the custom backend
+]
 
 
 AUTH_PASSWORD_VALIDATORS = [

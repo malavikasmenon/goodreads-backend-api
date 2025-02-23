@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
-from .models import UserProfile, ScrapedBook
+from .models import UserProfile, ScrapedBook, Interaction, Match
 
 @admin.register(UserProfile)
 class UserProfileAdmin(admin.ModelAdmin):
@@ -15,3 +15,13 @@ class ScrapedBookAdmin(admin.ModelAdmin):
     search_fields = ("title", "author", "goodreads_profile__profile_name")  # Enable search
     list_filter = ("shelf",)  # Filter books by shelf (read, to-read, etc.)
     ordering = ("-created_at",)  # Show newest books first
+
+
+@admin.register(Interaction)
+class InteractionAdmin(admin.ModelAdmin):
+    list_display = ("user", "target_user", "action")
+
+
+@admin.register(Match)
+class MatchAdmin(admin.ModelAdmin):
+    list_display = ("user1", "user2")
